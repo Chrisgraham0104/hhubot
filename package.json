@@ -6,7 +6,7 @@
   "description": "l1 task",
   "scripts": {
     "test": "test",
-    "start": ".\\bin\\hubot"
+    "start": "/bin/hubot"
   },
   "dependencies": {
     "hubot": "^2.19.0",
