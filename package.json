@@ -4,6 +4,10 @@
   "private": true,
   "author": "Chrisgraham",
   "description": "l1 task",
+  "scripts": {
+    "test": "test",
+    "start": ".\\bin\\hubot"
+  },
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.2",
